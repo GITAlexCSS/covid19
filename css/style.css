@@ -1,9 +1,12 @@
 body{
     padding: 0 30px;
+    width: 600px;
+    margin: 0 auto;
 }
 
 .container{
     display:flex;
-    
-
+    justify-content: space-between;
+    flex-wrap: wrap;
 }
+
